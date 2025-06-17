@@ -26,4 +26,7 @@ public class AbstarctionChild extends AbstractionParent{
 	}
 	
 	//public abstract void trial();
+//	public void show() {
+//		System.out.println("child show");
+//	}
 }
